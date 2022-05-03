@@ -98,6 +98,10 @@ function SiginPage() {
       {loadingMessage()}
       {SinginForm()}
       { redirectMethod()}
+      <div className="row-sm">
+        <div className="col-sm-12">Email: <span className="text-warning">admin@gmail.com</span></div>
+        <div className="col-sm-12">Password: <span className="text-warning">Password@123</span></div>
+      </div>
     </Base>
   );
 }
