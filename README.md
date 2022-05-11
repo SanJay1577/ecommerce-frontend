@@ -8,5 +8,7 @@ In the project directory, you can run:
 
 ### `It can Functions of `
 # Admin Support 
-# Uuser Support
+# User Support
+# Payment Gateway
+# Product Cart
 
