@@ -6,9 +6,10 @@ This project hosted in netlify [Fitness-shop](https://fitness-shop.netlify.app/)
 
 In the project directory, you can run:
 
-### `It can Functions of `
+### `
 # Admin Support 
 # User Support
 # Payment Gateway
 # Product Cart
+`
 
